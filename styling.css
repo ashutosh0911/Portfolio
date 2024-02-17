@@ -1,0 +1,209 @@
+body{
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  text-align: center;
+  color: #40514E;
+  font-family: 'Arial', serif;
+}
+
+h1{
+  color: #66BFBF;
+  text-shadow: 3px 3px 5px pink;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  padding: 20px;
+  color: #66BFBF;
+  text-shadow: 3px 3px 5px pink;
+}
+
+h4{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  text-shadow: 3px 3px 5px pink;
+  margin: 10px;
+  padding: 20px;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  text-shadow: 3px 3px 5px pink;
+  margin: 0px;
+}
+a{
+  color: #11999E;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+a:hover {
+  color: #126e82;
+
+}
+p{
+  font-weight: normal;
+  line-height: 2;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 5%;
+}
+
+.profile-image {
+  border-radius: 500%;
+  padding: 20px;
+}
+.Introduction {
+  width: 40%;
+  margin: 20px auto 40px;
+}
+
+.box1 {
+  background-color: white;
+  height: 500px;
+  padding: 100px 0 110px 0;
+
+  position: relative;
+}
+
+.cloud-bottom{
+  position: absolute;
+  bottom: 50%;
+  left: 20%;
+}
+.cloud-top{
+  position: absolute;
+  right: 25%;
+  top: 10%;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+/* khud se banaya hua */
+.skills{
+  position: relative;
+}
+.box11{
+  height: 450px;
+  width: 50%;
+  margin-top: 10px;
+  text-align: left;
+  Padding: 10px;
+  position: relative;
+
+}
+
+.heading_writing{
+  height: 68%;
+  width: 80%;
+  padding: 10px;
+  margin: 10px auto;
+  }
+.writing_pagelink{
+  height: 40px;
+  width: 300px;
+  margin: 5px 10px 5px 60px;
+  padding: 15px
+}
+.writing{
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  border-radius: 100%;
+}
+.youcanwrite{
+  height: 10%;
+  width: 40%;
+  padding: 5px;
+  position: absolute;
+  right: 50px;
+  bottom: 50px;
+}
+.writing_discription{
+  clear: left;
+  
+  line-height: 1.7;
+}
+
+.box12{
+
+  height: 450px;
+  width: 48%;
+  padding: 10px;
+  position: absolute;
+  right: 0px;
+  bottom:0px;
+  text-align: left;
+  line-height: 1.7;
+}
+
+.coding-description {
+  clear: right;
+  margin-top: 20px:
+}
+/* write comment here */
+
+.contact-me {
+  padding: 10px;
+  margin: 20px auto;
+}
+.writer{
+  width: 20%;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.coder{
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  border-radius: 100%;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 40px;
+}
+
+.contact-message {
+  width: 30%;
+  margin: 40px auto;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  color: #ffffff;
+  text-decoration: none;
+}
